@@ -1,0 +1,21 @@
+.carousel{
+    width: 650px;
+    display: flex;
+    align-items: center;
+    margin-left: 22%;
+    height: 400px;
+}
+.caja1{
+    width: 700px;
+    border-color:aliceblue;
+    border-width: 1px;
+    border-style: solid;
+    margin-bottom: 1rem;
+    margin-left: 20%;
+    
+}
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}

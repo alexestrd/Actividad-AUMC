@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background-color: #001f36;
+}
+a,h1,h2,h3,h4,h5,p{
+    color: #fbffcd;
+}
+h1,h2,h3,h4,h5,p{
+    color: #fbffcd;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+a{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}

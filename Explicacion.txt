@@ -1,0 +1,4 @@
+En esta actividad usamos el framework de Angular,
+asi como el de bootstrap para darle estilo y con ello varias de las 
+herramientas que este mismo te ofrece, para la parte del pdf usamos pdfmake
+para que se genere y lo pueda imprimir.

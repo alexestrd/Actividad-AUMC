@@ -1,0 +1,14 @@
+body{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+.caj{
+    margin-left: 100px;
+    width: 900px;
+}
